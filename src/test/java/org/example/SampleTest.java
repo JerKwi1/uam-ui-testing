@@ -19,7 +19,7 @@ public class SampleTest {
 
     @BeforeAll
     public static void setup() {
-        Configuration.browser = "chrome";
+        Configuration.browser = "edgeqqqqqq";
         Configuration.baseUrl = "https://www.google.com";
         Configuration.headless = true;
     }
