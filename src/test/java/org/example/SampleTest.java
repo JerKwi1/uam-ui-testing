@@ -33,7 +33,7 @@ public class SampleTest {
     public void sampleTest() {
         open("https://www.google.com");
 
-        $(By.id("L2AGLb")).click();
+        //$(By.id("L2AGLb")).click();
 
         $(By.id("APjFqb")).
                 val("Uniwersytet Adama Mickiewicza").
